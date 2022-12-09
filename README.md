@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog Your Dog's friendly site.
